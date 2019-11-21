@@ -1,0 +1,39 @@
+	Sunday, November 24, 2019
+-------------------------
+
+Flight State College, PA (SCE) to Detroit, MI (DTW)
+``````````````````````````````````````````````````
+
+Delta 4326 
+Operated by: Delta 
+
+Departure: 06:03 AM
+Seat: 1B (Confirmed) 
+Arrival: 07:40 AM
+
+Flight Detroit, MI (DTW) to Seattle, WA (SEA)
+`````````````````````````````````````````````
+Delta 0581 
+Operated by: Delta 
+
+Departure: 08:31 AM
+Seat: 38C (Confirmed) 
+Arrival: 10:43 AM
+
+Tuesday, November 26, 2019
+--------------------------
+
+Flight Seattle, WA (SEA) to Washington, DC (DCA)
+````````````````````````````````````````````````
+
+Alaska Airlines 0002 
+Operated by: Alaska Airlines 
+
+Departure: 01:55 PM
+Seat: 32D (Confirmed) 
+Seattle-Tacoma Intl Airport (SEA)
+Arrival: 09:58 PM
+Washington D.C. Ronald Reagan National Airport (DCA)
+Terminal: B
+Confirmation: ERHCBO
+Status: Confirmed 
